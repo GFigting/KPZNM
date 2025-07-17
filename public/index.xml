@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
     <link>http://localhost:1313/</link>
     <description>Recent content on </description>
-    <generator>Hugo -- 0.148.1</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 08:00:00 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的第一篇文章</title>
+      <link>http://localhost:1313/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
+      <pubDate>Mon, 14 Jul 2025 08:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
+      <description>&lt;h1 id=&#34;欢迎来到我的-hugo-博客&#34;&gt;欢迎来到我的 Hugo 博客！&lt;/h1&gt;&#xA;&lt;p&gt;这是我的&lt;strong&gt;第一篇 Markdown 文章&lt;/strong&gt;，我将用它来练习写作和格式排版。&lt;/p&gt;&#xA;&lt;h2 id=&#34;我喜欢的技术&#34;&gt;我喜欢的技术&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Hugo&lt;/li&gt;&#xA;&lt;li&gt;Markdown&lt;/li&gt;&#xA;&lt;li&gt;Git&lt;/li&gt;&#xA;&lt;li&gt;Go&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;我的计划&#34;&gt;我的计划&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 学会使用 Hugo&lt;/li&gt;&#xA;&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 学会写 Markdown&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 部署 GitHub Pages&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 写 100 篇博客&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;代码示例&#34;&gt;代码示例&lt;/h2&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;package&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;fmt&amp;#34;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;func&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;() {&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;fmt&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;Println&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, Hugo!&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
   </channel>
 </rss>
